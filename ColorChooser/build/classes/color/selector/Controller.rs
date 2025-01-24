@@ -1,0 +1,15 @@
+color.selector.ColorChooserController$1
+ColorChooserController$3
+ColorChooserController$2
+color.selector.ColorChooserController$3
+ColorChooserController$1
+color.selector.ColorChooserController$2
+ColorChooserController$4
+color.selector.ColorChooserController
+<error>.ColorChooser.ColorChooserController$1
+<error>.ColorChooser.ColorChooserController$3
+color.selector.ColorChooserController$4
+<error>.ColorChooser.ColorChooserController$2
+<error>.ColorChooser.ColorChooserController$4
+<error>.ColorChooser.ColorChooserController
+ColorChooserController
